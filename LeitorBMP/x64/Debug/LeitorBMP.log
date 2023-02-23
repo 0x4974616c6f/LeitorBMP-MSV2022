@@ -1,0 +1,15 @@
+﻿  bmp.cpp
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(44,2): error C4235: extensão não padrão usada: palavra-chave '__asm' sem suporte nesta arquitetura
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(45,3): error C2065: 'mov': identificador não declarado
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(45,7): error C2146: erro de sintaxe: ';' ausente antes do identificador 'ebx'
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(45,7): error C2065: 'ebx': identificador não declarado
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,3): error C2146: erro de sintaxe: ';' ausente antes do identificador 'mov'
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,3): error C2065: 'mov': identificador não declarado
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,7): error C2146: erro de sintaxe: ';' ausente antes do identificador 'eax'
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,7): error C2065: 'eax': identificador não declarado
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,17): error C2760: erro de sintaxe: '+' não era esperado aqui; o esperado era ','
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\bmp.cpp(46,23): error C2059: erro de sintaxe: ']'
+  main.cpp
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\main.cpp(59,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\italo\source\repos\LeitorBMP\LeitorBMP\main.cpp(77,16): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando Código...
